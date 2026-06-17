@@ -44,6 +44,6 @@ Additionally, the average experimental line width was found to be $\Gamma \appro
 ---
 
 ## Experimental Team
-* **Students:** Trinity Hopp & Nelly Patsche  
+* **Students:** Trinity Hopp & Nelly Patzschke  
 * **Supervisor:** Dr. Sakshath Sadashivaiah  
 * **Institution:** Friedrich Schiller University Jena
