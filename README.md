@@ -41,6 +41,16 @@ The target absorber consisted of a high-alloy stainless steel foil. Quantitative
 
 Additionally, the average experimental line width was found to be $\Gamma \approx 0.606 \text{ mm/s}$ ($\approx 2.91 \times 10^{-8} \text{ eV}$), which represents a **6-fold broadening** compared to the natural line width ($\Gamma_{\text{nat}}$). This quantitatively demonstrates the presence of **inhomogeneous line broadening** driven by continuous statistical fluctuations in the local coordination shells of the substitution alloy.
 
+# Grading / Bewertung
+The performance in this advanced lab experiment is evaluated based on two independent core components:
+
+| Evaluation Component | Description | Grade / Note |
+| :--- | :--- | :---: |
+| **Experimental Execution** | Lab performance, sample handling, drive mode configuration (Triangle/Sine) | *TBD* |
+| **Lab Report & Analysis** | Data processing pipeline, NEXUS calibration quality, and physical interpretation | *TBD* |
+
+
+
 ---
 
 ## Experimental Team
