@@ -41,19 +41,17 @@ The target absorber consisted of a high-alloy stainless steel foil. Quantitative
 
 Additionally, the average experimental line width was found to be $\Gamma \approx 0.606 \text{ mm/s}$ ($\approx 2.91 \times 10^{-8} \text{ eV}$), which represents a **6-fold broadening** compared to the natural line width ($\Gamma_{\text{nat}}$). This quantitatively demonstrates the presence of **inhomogeneous line broadening** driven by continuous statistical fluctuations in the local coordination shells of the substitution alloy.
 
-# Grading / Bewertung
-The performance in this advanced lab experiment is evaluated based on two independent core components:
-
-| Evaluation Component | Description | Grade / Note |
-| :--- | :--- | :---: |
-| **Experimental Execution** | Lab performance, sample handling, drive mode configuration (Triangle/Sine) | *TBD* |
-| **Lab Report & Analysis** | Data processing pipeline, NEXUS calibration quality, and physical interpretation | *TBD* |
-
-
-
----
-
 ## Experimental Team
 * **Students:** Trinity Hopp & Nelly Patzschke  
-* **Supervisor:** Dr. Sakshath Sadashivaiah  
-* **Institution:** Friedrich Schiller University Jena
+* **Supervisor:** Dr. Sakshath Sadashivaiah (institute of X-ray physics)
+* **Institution:** Friedrich Schiller University Jena  
+
+## Grading / Bewertung
+The final grade for this advanced lab experiment is determined by three core evaluation components:
+
+| Evaluation Component | Description | Weight / Gewichtung | Grade / Note |
+| :--- | :--- | :---: | :---: |
+| **Written Test (Antestat)** | Theoretical preparation, physical foundations, and quantum mechanics of the Mössbauer effect | *TBD* | *TBD* |
+| **Experimental Execution** | Lab performance, sample handling, drive mode configuration (Triangle/Sine) | *TBD* | *TBD* |
+| **Lab Report & Analysis** | Data processing pipeline, NEXUS calibration quality, and physical interpretation | *TBD* | *TBD* |
+| **Final Grade (Gesamtnote)** | **Weighted average of the three components above** | **100%** | ***TBD*** |
