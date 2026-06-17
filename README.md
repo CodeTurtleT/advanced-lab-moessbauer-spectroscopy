@@ -15,7 +15,7 @@ The template scripts and core fit-routines were adopted from the official [DESY 
 ## Repository Structure
 * `/data` — Raw `.ws5` multi-channel analyzer data files for the $\alpha\text{-Fe}$ reference and the stainless steel sample.
 * `/notebooks` — Jupyter notebooks containing the step-by-step analysis, baseline corrections, calibration, and sample fitting pipelines.
-* `/results` — Exported parameter summaries and publication-ready spectral plots.
+* `/results` — Contains the submitted lab report (*Versuchsprotokoll*) as well as the official grading feedback (in German) as soon as it is available
 
 ## Tech Stack
 * **Python** — Core language for the data processing pipeline.
